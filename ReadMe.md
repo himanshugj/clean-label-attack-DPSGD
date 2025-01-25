@@ -2,7 +2,8 @@
 
 # Limitations of Gradient Shaping as a defense against Data Poisoning
 
-This is the official implementation of the project - Limitations of Gradient Shaping Against Data Poisoning.
+This is the official implementation of the project - Limitations of Gradient Shaping Against Data Poisoning. In this work, I tried to test if Gradient Shaping (Differentially Private SGD is a robust optimization against clean label backdoor attacks. 
+The `Analysis and Report.pdf` file contains a detailed implementation and analysis report. 
 
 
 
